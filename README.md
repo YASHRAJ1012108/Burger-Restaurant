@@ -1,4 +1,4 @@
-Burger Restaurant Website
+<h1>Burger Restaurant Website</h1>
 
 Introduction
 
