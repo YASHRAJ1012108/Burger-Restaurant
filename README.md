@@ -1,6 +1,6 @@
 <h1>Burger Restaurant Website</h1>
 
-Introduction
+<h2>Introduction</h2>
 
 The Burger Restaurant Website is a fully responsive web project built using HTML, CSS, JavaScript, and Bootstrap. It provides an engaging and user-friendly experience for customers who want to explore the restaurant’s menu, book a table, and learn more about the restaurant.
 
